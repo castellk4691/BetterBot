@@ -1,0 +1,2 @@
+# BetterBot
+Improving my HelperBot
